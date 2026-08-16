@@ -8,6 +8,10 @@ Includes tools to view and wipe variables, quizzes, an idiom "cheat sheet page" 
 
 written using claude code opus 5.  7-31-26
 
+Requires python and uv. 
+https://www.python.org/downloads/
+https://github.com/astral-sh/uv
+
 to run the script: uv run bitwise.py
 
 For more info read the Claude generated README.MD file in this repo (the "other" readme file, not this one) and/or start the program and at the >> prompt type help
